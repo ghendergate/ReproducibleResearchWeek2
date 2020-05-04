@@ -3,6 +3,7 @@ title: "PA1_template"
 author: "Gabriel Hendergate"
 date: "13/03/2020"
 output: html_document
+keep_md: true
 ---
 
 ```{r setup}
