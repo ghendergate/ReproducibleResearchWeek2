@@ -6,7 +6,6 @@ output: html_document
 ---
 
 ```{r setup}
-knitr::opts_chunk$set(echo = TRUE, cache=TRUE)
 library(dplyr)
 library(tidyr)
 ```
