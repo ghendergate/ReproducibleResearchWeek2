@@ -2,11 +2,12 @@
 title: "PA1_template"
 author: "Gabriel Hendergate"
 date: "13/03/2020"
-output: html_document
-keep_md: true
+output: md_document
+variant: markdown_github
 ---
 
 ```{r setup}
+knitr::opts_chunk$set(echo = TRUE, cache=TRUE)
 library(dplyr)
 library(tidyr)
 ```
